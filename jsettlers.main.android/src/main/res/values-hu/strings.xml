@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JSettlers</string>
+    <string name="please_wait">Kérlek várj</string>
+
+    <string name="skip_1_minute">Egy perc átugrása</string>
+    <string name="save_string">Mentés</string>
+    <string name="stop_string">Megállítás</string>
+    <string name="kill_string">Megölés</string>
+    <string name="load_string">Játék betöltése</string>
+    <string name="pause_string">Szünet</string>
+    <string name="plus_string">+</string>
+    <string name="minus_string">-</string>
+
+    <string name="local_game">Helyi játék</string>
+    <string name="local_game_new">Új játék</string>
+    <string name="local_game_load">Játék betöltése</string>
+    <string name="local_game_resume">Utolsó játék folytatása</string>
+    <string name="local_game_resume_error">Hiba történt a játék betöltése közben.</string>
+    <string name="network_game">Hálózati játék</string>
+    <string name="startscreen_network_new">Új játék</string>
+    <string name="startscreen_network_join">Csatlakozás játékhoz</string>
+    <string name="startscreen_network_load">Mentett játék betöltése</string>
+
+    <string name="game_title">Üdvözlünk a JSettlers-ben</string>
+
+    <string name="maplist_local_new_headline">Új játék kezdése</string>
+    <string name="maplist_local_new_submit">Indítás</string>
+    <string name="maplist_local_load_headline">Mentett játék betöltése</string>
+    <string name="maplist_local_load_submit">Betöltés</string>
+    <string name="maplist_network_new_headline">Új hálózati játék kezdése</string>
+    <string name="maplist_network_new_submit">Indítás</string>
+    <string name="maplist_network_join_headline">Csatlakozás hálózati játékhoz</string>
+    <string name="maplist_network_join_submit">Csatlakozás</string>
+
+    <string name="player_count">Játékos szám</string>
+    <string name="illegal_playercount">Érvénytelen játékos szám</string>
+    <string name="illegal_playercount_too_high">A játékosok száma túl sok</string>
+    <string name="illegal_playercount_too_low">A játékosok száma túl kevés</string>
+
+    <string name="send">Küldés</string>
+    <string name="accept_start">Készen</string>
+    <string name="local_game_delete">Mentett játék törlése</string>
+    <string name="network_start">Indítás</string>
+    <string name="preferences_playername">Saját neved</string>
+    <string name="preferences_server">Hálózati szerver címe</string>
+    <string name="preferences_ok">Mentés</string>
+    <string name="network_chat">Chat…</string>
+    <string name="filechoser_ok">Használja ezt a mappát</string>
+    <string name="filechoser_message">Hol találhatóak a GFX és SND mappák?</string>
+
+    <!-- New stuff -->
+
+    <!-- In Game -->
+    <!-- Selection Menus -->
+    <!-- Common -->
+    <string name="halt">Megállás</string>
+
+    <!-- Carriers Selection -->
+    <string name="convert_all">Összeset konvertál</string>
+    <string name="convert_one">Egyiket konvertál</string>
+
+    <!-- Specialists Selection -->
+    <string name="convert_to_carriers">Szállítokká konvertál</string>
+    <string name="work_here">Dolgozás</string>
+
+    <!-- Soldiers Selection -->
+    <string name="confirm_kill">Katonák megölése?</string>
+    <string name="yes">Igen</string>
+
+
+    <!-- Main Menus -->
+    <!-- Settings -->
+    <string name="settings_player_name">Játékos neve</string>
+    <string name="settings_name">Név</string>
+
+    <!-- Map picker -->
+    <string name="new_single_player_game">Új egyjátékos játék</string>
+    <string name="new_multi_player_game">Új többjátékos játék</string>
+    <string name="load_single_player_game">Egyjátékos játék betöltése</string>
+    <string name="join_multi_player_game">Csatlakozás többjátékos játékhoz</string>
+    <string name="searching_for_multiplayer_games">Játékok keresése…</string>
+
+    <!-- game config -->
+    <string name="number_of_players">Játékosok</string>
+    <string name="start_resources">Erőforrások</string>
+    <string name="peacetime">Békeidő</string>
+
+
+    <!-- Other -->
+    <string name="ok">OK</string>
+    <string name="cancel">Mégsem</string>
+    <string name="settings">Beállítások</string>
+
+    <string name="resource_directory_title">Grafika és hangok mappa</string>
+    <string name="resource_directory_info">A JSettlers számára szükséges az eredeti The Settlers 3 telepítési mappájában található GFX és SND mappák. Keresd meg őket és másold fel az Androidos készülékedre mielőtt használni szeretnéd a JSettlers-t.</string>
+    <string name="resource_directory_button">Mappák megkeresése</string>
+
+    <string name="menu_single_player_title">Egyjátékos</string>
+    <string name="menu_single_player_info">Mérkőzz meg a számítógépes ellenfelekkel egy csatában.</string>
+
+    <string name="menu_multi_player_title">Többjátékos</string>
+    <string name="menu_multi_player_info">Hívd ki a barátaidat okostelefonon, tableten vagy számítógépen.</string>
+
+    <string name="menu_game_in_progress">Játék folyamatban</string>
+    <string name="menu_new">Indítás</string>
+    <string name="menu_load">Betöltés</string>
+    <string name="menu_join">Csatlakozás</string>
+
+    <string name="start_game">Játék indítása</string>
+
+    <string name="game_menu_title">Menü</string>
+    <string name="game_menu_quit">Kilépés</string>
+    <string name="game_menu_quit_confirm">Biztosan?</string>
+    <string name="game_menu_save">Mentés</string>
+    <string name="game_menu_pause">Szünet</string>
+    <string name="game_menu_unpause">Folytatás</string>
+    <string name="game_menu_paused">Szüneteltetve</string>
+    <string name="game_menu_saved">Játék mentve</string>
+    <string name="no_saved_games">Nincs elérhető mentett állás</string>
+    <string name="resource_selection_dialog_title">GFX és SND mappák megkeresése</string>
+    <string name="empty_directory">Ez a mappa üres</string>
+    <string name="notification_game_in_progress">JSettlers játék folyamatban</string>
+    <string name="faster">Gyorsabban</string>
+    <string name="slower">Lassabban</string>
+    <string name="fast">Gyors sebesség</string>
+    <string name="buildings">Épületek</string>
+    <string name="goods">Áruk</string>
+    <string name="settlers">Telepesek</string>
+    <string name="multiplayer_not_all_players_ready">Minden játékosnak készen kell állnia a meccs elindításához.</string>
+</resources>
