@@ -40,7 +40,7 @@ public class SetStartpointTool extends AbstractTool {
 	 *            Interface to get the currently selected player
 	 */
 	public SetStartpointTool(IPlayerSetter player) {
-		super("statpoint");
+		super("startpoint");
 		this.player = player;
 		shapeTypes.add(EShapeType.POINT);
 	}

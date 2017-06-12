@@ -103,7 +103,7 @@ public abstract class ToolSidebar extends JPanel implements IPlayerSetter {
 					new SetLandscapeTool(ELandscapeType.SHARP_FLATTENED_DESERT, false),
 					new SetLandscapeTool(ELandscapeType.GRAVEL, false)
 					}),
-			new ToolBox(EditorLabels.getLabel("tools.category.heigths"), new ToolNode[] {
+			new ToolBox(EditorLabels.getLabel("tools.category.heights"), new ToolNode[] {
 					new LandscapeHeightTool(),
 					new IncreaseDecreaseHeightAdder(true),
 					new IncreaseDecreaseHeightAdder(false),
