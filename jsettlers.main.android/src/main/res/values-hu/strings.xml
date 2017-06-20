@@ -128,4 +128,5 @@
     <string name="goods">Áruk</string>
     <string name="settlers">Telepesek</string>
     <string name="multiplayer_not_all_players_ready">Minden játékosnak készen kell állnia a meccs elindításához.</string>
+    <string name="normal">Normál sebesség</string>
 </resources>
